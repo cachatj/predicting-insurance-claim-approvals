@@ -174,3 +174,5 @@ cython_debug/
 .pypirc
 
 claude-output
+gemini-synthetic_claims_data
+.DS_Store
